@@ -1,2 +1,2 @@
-# pocket_weather_app
+# mousam
 weather app using HTML, CSS AND JAVASCRIPT
