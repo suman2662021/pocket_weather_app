@@ -1,2 +1,2 @@
 # mousam
-weather app using HTML, CSS AND JAVASCRIPT.
+weather app using HTML, CSS AND JAVASCRIPT
